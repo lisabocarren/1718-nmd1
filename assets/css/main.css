@@ -1,0 +1,76 @@
+
+    @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Raleway:400,400i,500,600');
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  
+
+/* 
+../ Go back 1 level
+*/
+
+  background: url('../images/bg4.jpg') no-repeat center top fixed;
+  background-size: cover;
+
+
+  color: #85868F;
+}
+
+h1,h2{
+ font-family: 'Open Sans Condensed', sans-serif;
+
+  font-size: 24px;
+  
+  color: #BC9F9F;
+}
+
+h1{
+  font-size: 40px;
+}
+
+.box {
+
+  background: #BC9F9F;
+  
+  width: 200px; 
+  height: 50px; 
+  margin: 0 auto;
+  padding: 16px;
+  
+  color: #85868F;
+  border: 6px solid ;
+  border-left-width: 6px;
+  border-right-width: 6px;
+  
+}
+
+.nav-item__link {
+  
+  text-decoration: none;
+  text-align: left;
+
+}
+
+.nav-item__link:hover {
+  background-color: #CC0077;    
+  
+}
+
+
+  .top-image-box {
+    height: 300px;
+    margin-bottom: 24px;
+
+   
+}
+.top-image-box img {
+  object-fit: cover;
+    width:100%;
+    height:100%;
+   
+}
+
+
+
