@@ -48,13 +48,14 @@ h1{
 
 .nav-item__link {
   
-  text-decoration: none;
-  text-align: left;
+  text-decoration:none;
+  text-align:left;
+  list-style: none;
 
 }
 
 .nav-item__link:hover {
-  background-color: #CC0077;    
+  background-color: ;    
   
 }
 
